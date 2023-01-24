@@ -32,16 +32,11 @@ img {
 .value {
   padding: 1px 10px;
   font-size: 100px;
-  color: rgb(240, 236, 217);
+  color: rgb(252, 239, 203);
   border-radius: 70%;
 
   transition: background-color 0.5s ease;
 }
-
-/* .value:hover {
-  background-color: #80cbc4;
-  border: transparent;
-} */
 
 .label {
   color: #fff;
